@@ -1,0 +1,20 @@
+.todo {
+    padding: 14px;
+    width: 260px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 15px;
+    background:#0b8b94;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+
+.delete {
+    display: inline-block;
+    cursor: pointer;
+    float: right;
+    font-size: 22px;
+    position: relative;
+    bottom: 5px;
+  }

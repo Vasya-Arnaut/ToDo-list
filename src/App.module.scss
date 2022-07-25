@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 150px;
+  }
+
+input {
+  padding: 14px 32px 14px 16px;
+  border-radius: 4px 0 0 4px;
+  border: 2px solid #0b8b94;
+  outline: none;
+  background: transparent;
+}
+
+button {
+  padding: 16px 7px;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  outline: none;
+  background: #0b8b94;
+  color: #fff;
+  text-transform: capitalize;
+}
